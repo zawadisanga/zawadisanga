@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-'''js 
+```js 
 if ur code say hey
-'''
+```
